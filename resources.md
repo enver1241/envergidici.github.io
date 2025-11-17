@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Resources"
+permalink: /resources/
 ---
+
 
 This page lists useful resources related to:
 

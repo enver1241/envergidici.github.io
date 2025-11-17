@@ -2,8 +2,10 @@ title: "My GitHub Pages Jekyll Site"
 description: "A sample website created for the GitHub Pages assignment."
 author: "ENVER GİDİCİ"
 theme: minima
-baseurl: ""
-url: "https://envergidici.github.io"
+
+url: "https://enver1241.github.io"
+baseurl: "/envergidici.github.io"
+
 nav_links:
   - title: "Home"
     url: "/"

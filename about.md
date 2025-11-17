@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "About"
+permalink: /about/
 ---
+
 
 This website was created as part of a course assignment on web technologies and version control.
 
